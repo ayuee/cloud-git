@@ -2,5 +2,5 @@ spring:
   application:
     name: pring-cloud-config-client
 server:
-    port: 8003
+    port: 8002
 
