@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: pring-cloud-config-client
+server:
+    port: 8002
+
